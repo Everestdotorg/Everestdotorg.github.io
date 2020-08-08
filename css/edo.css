@@ -3,6 +3,10 @@
  * Copyright 2016-2020 Everest Network Ltd.
  */
 
+ p {
+   font-family: "Arial", Helvetica, sans-serif;
+ }
+
  body {
   background-image: url("home-bg.jpg");
   background-color: #cccccc;
